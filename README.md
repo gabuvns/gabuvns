@@ -3,7 +3,7 @@
 <h3> About Me </h3>
   
 - 📕 &nbsp; Computer Science student at [Universidade de Brasília](https://www.unb.br/)  
-- 🔭 &nbsp; I’m currently working  @[LATITUDE](https://www.latitude.unb.br/) as a front-end developer.
+- 🔭 &nbsp; I’m currently working  @[LATITUDE](https://www.latitude.unb.br/) as an software engineering intern.
   
 <h3>🛠 Tech Stack</h3>
 
