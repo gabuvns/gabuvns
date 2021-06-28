@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3> Hi I'm Carlos Soares. 
 
-<!--
-**gabuvns/gabuvns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> About Me </h3>
+  
+- 📕 &nbsp; Computer Science student at [Universidade de Brasília](https://www.unb.br/)  
+- 🔭 &nbsp; I’m currently working  @[LATITUDE](https://www.latitude.unb.br/) as a front-end developer.
+  
+<h3>🛠 Tech Stack</h3>
 
-Here are some ideas to get you started:
+- 💻 &nbsp; Python | C/C++ | Java 
+- 🌐 &nbsp; Angular | React 
+- 📱 &nbsp;  Ionic Framework
+- 🎨 &nbsp;  Photoshop | Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3> Find me at </h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/carlosgsoares/"><img alt="followers" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/gabuvns"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/carolestrella?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+</p>
