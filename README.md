@@ -2,15 +2,19 @@
 
 <h3> About Me </h3>
   
-- 📕 &nbsp; Computer Science student at [Universidade de Brasília](https://www.unb.br/)  
-<!-- - 🔭 &nbsp; I’m currently working  @[LATITUDE](https://www.latitude.unb.br/) as a software engineering intern. -->
+- 📕 &nbsp; Computer Science student at [Universidade de Brasília](https://www.unb.br/). Hopefully graduating sometime in the near-future.
+- 🔭 &nbsp;Currently working  @QuintoAndar as a software engineering intern. 
+- 🔭 &nbsp;And also working  @[LATITUDE](https://www.latitude.unb.br/) as a front-end developer. 
  
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C/C++ | Java 
-- 🌐 &nbsp; Angular | React 
-- 📱 &nbsp;  Ionic Framework
-- 🎨 &nbsp;  Photoshop | Figma
+  - 💻 &nbsp; Currently working with Java for back-end
+
+  - 🌐 &nbsp; And with Angular | React for front-end 
+
+  - 🎨 &nbsp;  Photoshop | Figma
+
+  - I have worked in the past with: Python | C/C++ | Ionic Framework
 
 
 <h3> Find me at </h3>
