@@ -10,7 +10,7 @@
 
   - 💻 &nbsp; Currently working with Java for back-end
 
-  - 🌐 &nbsp; And with Angular | React for front-end 
+  - 🌐 &nbsp; Angular | React for front-end 
 
   - 🎨 &nbsp;  Photoshop | Figma
 
