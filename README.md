@@ -7,13 +7,13 @@
  
 <h3>🛠 Tech Stack</h3>
 
-  - 💻 &nbsp; Currently working with Java for back-end
+  - 💻 &nbsp; Currently working with Java Spring Boot for back-end
 
-  - 🌐 &nbsp; Angular | React for front-end 
+  - 🌐 &nbsp; React for front-end 
 
   - 🎨 &nbsp;  Photoshop | Figma
 
-  - I have worked in the past with: Python | C/C++ | Ionic Framework
+  - I have worked in the past with: Python | C/C++ | Ionic Framework | Angular
 
 
 <h3> Find me at </h3>
