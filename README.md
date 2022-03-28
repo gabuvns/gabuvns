@@ -3,7 +3,7 @@
 <h3> About Me </h3>
   
 - 📕 &nbsp; Computer Science student at [Universidade de Brasília](https://www.unb.br/). Hopefully graduating sometime in the near-future.
-- 🔭 &nbsp;Currently working  @QuintoAndar as a software engineering intern. 
+- 🔭 &nbsp;Currently working  @QuintoAndar as a software engineer intern. 
  
 <h3>🛠 Tech Stack</h3>
 
