@@ -7,9 +7,7 @@
  
 <h3>🛠 Tech Stack</h3>
 
-  - 💻 &nbsp; Currently working with Java Spring Boot for back-end
-
-  - 🌐 &nbsp; React for front-end 
+  - 💻 &nbsp; Currently working with Java Spring Boot for back-end and React for front-end 
 
   - 🎨 &nbsp;  Photoshop | Figma
 
