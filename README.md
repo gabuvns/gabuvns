@@ -2,9 +2,9 @@
 
 <h3> About Me </h3>
   
+- 🔭 &nbsp;Software Engineer  @QuintoAndar. 
 - 📕 &nbsp; Computer Science student at [Universidade de Brasília](https://www.unb.br/). Hopefully graduating sometime in the near-future.
-- 🔭 &nbsp;Currently working  @QuintoAndar as a software engineer intern. 
- 
+
 <h3>🛠 Tech Stack</h3>
 
   - 💻 &nbsp; Currently working with Java Spring Boot for back-end and React for front-end 
