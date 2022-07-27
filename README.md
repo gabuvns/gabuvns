@@ -8,10 +8,12 @@
 <h3>🛠 Tech Stack</h3>
 
   - 💻 &nbsp; Currently working with Java Spring Boot for back-end and React for front-end 
+  
+  - 📱 &nbsp; I have developed mobile applications with react native and ionic framework.
 
   - 🎨 &nbsp;  Photoshop | Figma
 
-  - I have worked in the past with: Python | C/C++ | Ionic Framework | Angular
+  - I have worked in the past with: Python | C/C++ | Angular
 
 
 <h3> Find me at </h3>
