@@ -2,18 +2,18 @@
 
 <h3> About Me </h3>
   
-- 🔭 &nbsp;Software Engineer  @QuintoAndar. 
-- 📕 &nbsp; Computer Science student at [Universidade de Brasília](https://www.unb.br/). Graduating sometime in the near-future.
+- 🔭 &nbsp;Software Engineer  @Banco Brb . 
+- 📕 &nbsp; Computer Science Graduate at [Universidade de Brasília](https://www.unb.br/).
 
 <h3>🛠 Tech Stack</h3>
 
-  - 💻 &nbsp; Currently working with Java Spring Boot for back-end and React for front-end 
+  - 💻 &nbsp; Currently working with Java Spring Boot for back-end, alongside aws stack (sqs,s3, etc) and React for front-end.
+  - I have also worked with Python, C/C++, Angular.
   
   - 📱 &nbsp; I have developed mobile applications with react native and ionic framework.
 
   - 🎨 &nbsp;  Photoshop | Figma
 
-  - I have worked in the past with: Python | C/C++ | Angular
 
 
 <h3> Find me at </h3>
