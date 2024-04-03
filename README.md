@@ -2,8 +2,9 @@
 
 <h3> About Me </h3>
   
-- 🔭 &nbsp;Software Engineer  @Banco Brb . 
-- 📕 &nbsp; Computer Science Graduate at [Universidade de Brasília](https://www.unb.br/).
+- 🔭 &nbsp;Software Engineer @Banco Brb . 
+- 📕 &nbsp; MEng Electrical Engineering and Computer Science Graduate at [Universidade de Brasília](https://www.unb.br/).
+- Currently diving into blockchain and cbdcs
 
 <h3>🛠 Tech Stack</h3>
 
