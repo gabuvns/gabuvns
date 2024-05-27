@@ -13,9 +13,6 @@
   
   - 📱 &nbsp; I have developed mobile applications with react native and ionic framework.
 
-  - 🎨 &nbsp;  Photoshop | Figma
-
-
 
 <h3> Find me at </h3>
 
