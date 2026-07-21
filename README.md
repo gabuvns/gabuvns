@@ -3,8 +3,9 @@
 <h3> About Me </h3>
   
 - 🔭 &nbsp;Software Engineer [@Banco do Brasil](https://www.bb.com.br/site/) . 
-- 📕 &nbsp; MEng Electrical Engineering student and Computer Science Graduate at [Universidade de Brasília](https://www.unb.br/).
-- Currently diving into blockchain and cbdcs
+- My professional work is private, so you won't see too much action on my public Github. Feel free to send me a message on linkedin!
+   <a href="https://www.linkedin.com/in/carlosgsoares/"><img alt="followers" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
 
 <h3>🛠 Tech Stack</h3>
 
